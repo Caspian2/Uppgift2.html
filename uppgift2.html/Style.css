@@ -1,0 +1,33 @@
+p{ 
+color: purple;
+background-color: grey;
+
+
+text-align: center;
+
+}
+p.Text{
+    color: white;
+    background-color: black;
+
+}
+
+p.Namn{ 
+    border: 3px solid black;
+    
+    border-radius: 10px;
+
+}
+p.Tankar{
+    text-align: right;
+}
+h1{
+ font-family: Arial;
+ font-size: 22px;
+
+
+}
+
+a{ 
+    text-decoration: none;
+}
